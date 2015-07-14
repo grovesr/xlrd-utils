@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+xlrd_utils.egg-info/PKG-INFO
+xlrd_utils.egg-info/SOURCES.txt
+xlrd_utils.egg-info/dependency_links.txt
+xlrd_utils.egg-info/top_level.txt
+xlrdutils/__init__.py
+xlrdutils/xlrdutils.py
